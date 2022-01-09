@@ -1,6 +1,6 @@
 {
   "name": "otmane",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Start Learn Node Js With Cli",
   "main": "index.js",
   "scripts": {
